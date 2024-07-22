@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+h2 {
+  font-size: 40px;
+  color: green;
+}
+
+p {
+  background-color: yellow;
+}
+
+.text {
+  background-color: red;
+}
+
+#password {
+  padding: 20px;
+  background-color: lightblue;
+  border: 3px solid blue;
+}
+
+.other-container p.text {
+  background-color: blue;
+  color: white;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+  border: 5px solid black;
+  padding: 10px;
+  margin: 20px;
+}
